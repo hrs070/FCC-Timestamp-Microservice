@@ -1,2 +1,6 @@
 
-# [Timestamp Microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice)
+# Timestamp Microservice
+
+## Features
+1. Shows present Time in unix epoch and UTC time format at api/timestamp
+2. Shows time at any given unix milliseconds or date in yyyy-mm-dd format at api/timestamp/[date]
